@@ -1,4 +1,1 @@
-!#/bin/bash
-
-var = avinash
-echo $var
+echo "Hello, $var"

@@ -1,1 +1,1 @@
-echo "Hello, $var"
+echo "Welcome $var"
